@@ -1,0 +1,17 @@
+
+.itemss {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  }
+   .images{
+   margin: 10px;
+   width: 250px;
+  } 
+.Dea{
+  display: flex;
+  justify-content: center; /* Horizontally centers items */
+  align-items: center; /* Vertically centers items */
+ 
+}
+  

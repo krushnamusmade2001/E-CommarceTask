@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+}
+.item {
+    display: flex;
+    flex-direction: column;
+    background-color: brown;
+     border-radius: 10px; 
+    margin: 10px;
+}
+
+.upper {
+   font-size: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    
+}
+.lower{
+  font-size: 8px;
+ 
+  
+
+}

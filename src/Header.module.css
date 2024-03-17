@@ -1,0 +1,18 @@
+.header {
+    height: 80px;
+    background-color: #333;
+    margin: 0px; 
+    padding: 0px 0; 
+    width: 1535px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+
+}
+.logo{
+         height: 80px;
+}
+.Butto{
+    display: flex;
+    
+}

@@ -1,0 +1,14 @@
+.current_price{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 700;
+    color:coral;
+}
+.original_price{
+  text-decoration: line-through;
+  color: #7e818c;
+  font-weight: 400;
+  margin-left: 5px;
+  font-size: 14px;
+}
